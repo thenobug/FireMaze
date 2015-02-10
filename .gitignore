@@ -1,3 +1,13 @@
+# FireMaze
+*.config
+*.log
+*.log.*
+*.pyc
+*.project
+*.pydevproject
+model_gen.py
+local_settings.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
